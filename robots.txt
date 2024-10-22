@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://efodecua.github.io/efodecua.efodecua
+Sitemap: https://efodecua.github.io/app/efodecua.efodecua
+Sitemap: https://efodecua.github.io/assets/efodecua.efodecua
+Sitemap: https://efodecua.github.io/css/efodecua.efodecua
+Sitemap: https://efodecua.github.io/includes/efodecua.efodecua
+Sitemap: https://efodecua.github.io/item/efodecua.efodecua
+Sitemap: https://efodecua.github.io/src/efodecua.efodecua
